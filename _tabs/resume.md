@@ -76,8 +76,8 @@ order: 4
 
 ## Unpublished Research Writings  
 
-- **Jadhav A. S. and Sinha Y. (2023).** *Pathological Speech Processing - A Systematic Review: Datasets, Acoustic Features, and Applications.* Systematic review report as part of coursework NTPS. [View Paper](http://dx.doi.org/10.13140/RG.2.2.25085.54241)  
-- **Jadhav A. S. (2023).** *Machine Learning in IIoT Communications.* Technical report as part of coursework Digital Communication System. [View Paper](http://dx.doi.org/10.13140/RG.2.2.15858.07363)
+- **Jadhav A. S. and Sinha Y. (2023).** *Pathological Speech Processing - A Systematic Review: Datasets, Acoustic Features, and Applications.* Systematic review report as part of coursework NTPS. [View Paper](https://www.researchgate.net/publication/377773094_Pathological_speech_processing_-a_systematic_review_datasets_acoustic_features_and_applications)  
+- **Jadhav A. S. (2023).** *Machine Learning in IIoT Communications.* Technical report as part of coursework Digital Communication System. [View Paper](https://www.researchgate.net/publication/377772943_Machine_Learning_in_IIoT_Communication)
 
 ---
 
